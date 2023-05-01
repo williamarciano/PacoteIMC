@@ -4,6 +4,7 @@
 
 # Define UI for app
 ui <- fluidPage(
+  setBackgroundColor(color = "lightgreen"),
 
   # App title
   titlePanel("Cálculo do IMC"),
